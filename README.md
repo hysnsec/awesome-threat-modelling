@@ -62,6 +62,8 @@ by Tony UcedaVelez  (Author), Marco M. Morana (Author)
 
 [Threat Modeling or Whiteboard Hacking training](https://www.toreon.com/threatmodeling/) by toreon
 
+[DevSecOps Expert by Practical DevSecOps](https://www.practical-devsecops.com/certified-devsecops-expert/) by Mohammed A. Imran
+
 ## Videos
 
 *Videos talking about Threat modeling*
@@ -159,8 +161,6 @@ MIT OpenCourseWare
 [threatspec](https://threatspec.org/) - Threatspec is an open source project that aims to close the gap between development and security by bringing the threat modelling process further into the development process. 
 
 ### Paid tools
-
-[Threatmodeler](https://threatmodeler.com) - An automated threat modeling solution that secures and scales the enterprise software development life cycle
 
 [Foreseeti](https://www.foreseeti.com/) - SecuriCAD Vanguard is an attack simulation and automated threat modeling SaaS service that enables you to automatically simulate attacks on a virtual model of your AWS environment
 
