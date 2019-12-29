@@ -1,4 +1,3 @@
-# awesome-threat-modelling
 
 Welcome to Awesome Threat Modeling[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===================
@@ -50,7 +49,9 @@ by Tony UcedaVelez  (Author), Marco M. Morana (Author)
 
 ### Paid
 
-[Threat Modeling Fundamentals](https://www.pluralsight.com/courses/threat-modeling-fundamentals) by pluralsight
+[DevSecOps Expert](https://www.practical-devsecops.com/certified-devsecops-expert/) by [Practical DevSecOps](https://www.practical-devsecops.com)
+
+[Threat Modeling Fundamentals](https://www.pluralsight.com/courses/threat-modeling-fundamentals) by Pluralsight
 
 [CyberSec First Responder: Threat Detection & Response CFR210](https://www.udemy.com/course/cybersec-first-responder-threat-detection-response-cfr210/) by Stone River eLearning
 
@@ -60,9 +61,8 @@ by Tony UcedaVelez  (Author), Marco M. Morana (Author)
 
 [Threat Modeling: Tampering in Depth](https://www.lynda.com/IT-tutorials/Threat-Modeling-Tampering-Depth/2810167-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3athreat+modelling%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) by Adam Shostack
 
-[Threat Modeling or Whiteboard Hacking training](https://www.toreon.com/threatmodeling/) by toreon
+[Threat Modeling or Whiteboard Hacking training](https://www.toreon.com/threatmodeling/) by Toreon
 
-[DevSecOps Expert by Practical DevSecOps](https://www.practical-devsecops.com/certified-devsecops-expert/) by Mohammed A. Imran
 
 ## Videos
 
@@ -101,7 +101,7 @@ MIT OpenCourseWare
 
 [What Is Security Threat Modeling?](https://www.dummies.com/programming/certification/security-threat-modeling/) by Lawrence C. Miller, Peter H. Gregory
 
-[Threat-modeling CheatSheet By Owasp](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html) by Owasp
+[Threat-modeling CheatSheet By Owasp](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html) by OWASP
 
 [Threat Modeling in the Enterprise, Part 1: Understanding the Basics](https://securityintelligence.com/threat-modeling-in-the-enterprise-part-1-understanding-the-basics/) by Stiliyana Simeonova 
 
@@ -160,14 +160,20 @@ MIT OpenCourseWare
 
 [threatspec](https://threatspec.org/) - Threatspec is an open source project that aims to close the gap between development and security by bringing the threat modelling process further into the development process. 
 
+
 ### Paid tools
 
-[Foreseeti](https://www.foreseeti.com/) - SecuriCAD Vanguard is an attack simulation and automated threat modeling SaaS service that enables you to automatically simulate attacks on a virtual model of your AWS environment
+[Irius risk](https://iriusrisk.com/threat-modeling-tool/) - Iriusrisk is a threat modeling tool with an adaptive questionnaire driven by an expert system which guides the user through straight forward questions about the technical architecture, the planned features and security context of the application.
 
 [SD elements](https://www.securitycompass.com/sdelements/threat-modeling/) - Automate Threat Modeling with SD Elements
 
-[Irius risk](https://iriusrisk.com/threat-modeling-tool/) - Iriusrisk is a threat modeling tool with an adaptive questionnaire driven by an expert system which guides the user through straight forward questions about the technical architecture, the planned features and security context of the application
+[Foreseeti](https://www.foreseeti.com/) - SecuriCAD Vanguard is an attack simulation and automated threat modeling SaaS service that enables you to automatically simulate attacks on a virtual model of your AWS environment.
+
+
 
 ## Contributing
 
-[Please refer the guidelines at contributing.md for details](Contributing.md).
+Please refer the guidelines at [contributing.md for details](Contributing.md).
+
+## Sponsored by
+![Practical DevSecOps](images/practical-devsecops-logo.png)
