@@ -139,7 +139,7 @@ MIT OpenCourseWare
 
 [7 Easy Steps For Building a Scalable Threat Modeling Process](https://go.threatmodeler.com/7-steps-building-scalable-threat-modeling-process) by Threatmodeler
 
-[Where is my Threat Model?](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.appsecco.com%2Fwhere-is-my-threat-model-b6f8b077ac47 ) by Abhisek Datta
+[Where is my Threat Model?](https://blog.appsecco.com/where-is-my-threat-model-b6f8b077ac47?gi=3aa60cbfb24) by Abhisek Datta
 
 
 ## Tools
