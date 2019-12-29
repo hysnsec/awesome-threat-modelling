@@ -33,7 +33,7 @@ A curated list of threat modeling resources ( Books, courses - free and paid, vi
 by Tony UcedaVelez  (Author), Marco M. Morana (Author)
 
 
-- [Threat Modeling](hhttps://www.oreilly.com/library/view/threat-modeling/9781492056546/) by Matthew J. Coles, Izar Tarandach
+- [Threat Modeling](https://www.oreilly.com/library/view/threat-modeling/9781492056546/) by Matthew J. Coles, Izar Tarandach
 
 
 ## Courses
