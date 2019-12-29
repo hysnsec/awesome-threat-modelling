@@ -26,14 +26,14 @@ A curated list of threat modeling resources ( Books, courses - free and paid, vi
 
 -  [Threat Modeling: Designing for Security ](https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998)  by Adam Shostack
 
-- [Threat Modeling](https://www.amazon.in/Threat-Modeling-Microsoft-Professional-Swiderski/dp/0735619913/ref=pd_sim_14_5/257-9111914-7101553?_encoding=UTF8&pd_rd_i=0735619913&pd_rd_r=2070bbcf-09ea-48a2-806e-4b9fee43d067&pd_rd_w=FTwr1&pd_rd_wg=XnlcQ&pf_rd_p=64901ac7-e7c5-4bfc-9580-c94746a1fc53&pf_rd_r=SSSN183KKWQ3MTRKHM1J&psc=1&refRID=SSSN183KKWQ3MTRKHM1J) by  Frank Swiderski , Window Snyder  
+- [Threat Modeling](https://www.amazon.in/Threat-Modeling-Microsoft-Professional-Swiderski/dp/0735619913) by  Frank Swiderski , Window Snyder  
 
 
-- [Risk Centric Threat Modeling: Process for Attack Simulation and Threat Analysis](https://www.amazon.in/Risk-Centric-Threat-Modeling-Simulation/dp/0470500964/ref=sr_1_2?crid=173WGO1TDLNI2&keywords=threat+modeling&qid=1576215818&s=books&sprefix=threat+mode%2Cstripbooks%2C301&sr=1-2)
+- [Risk Centric Threat Modeling: Process for Attack Simulation and Threat Analysis](https://www.amazon.in/Risk-Centric-Threat-Modeling-Simulation/dp/0470500964)
 by Tony UcedaVelez  (Author), Marco M. Morana (Author)
 
 
-- [Threat Modeling](https://learning.oreilly.com/library/view/threat-modeling/9781492056546/) by Matthew J. Coles, Izar Tarandach
+- [Threat Modeling](hhttps://www.oreilly.com/library/view/threat-modeling/9781492056546/) by Matthew J. Coles, Izar Tarandach
 
 
 ## Courses
@@ -139,7 +139,7 @@ MIT OpenCourseWare
 
 [7 Easy Steps For Building a Scalable Threat Modeling Process](https://go.threatmodeler.com/7-steps-building-scalable-threat-modeling-process) by Threatmodeler
 
-[Where is my Threat Model?](https://blog.appsecco.com/where-is-my-threat-model-b6f8b077ac47) by Abhisek Datta
+[Where is my Threat Model?](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fblog.appsecco.com%2Fwhere-is-my-threat-model-b6f8b077ac47 ) by Abhisek Datta
 
 
 ## Tools
@@ -160,7 +160,7 @@ MIT OpenCourseWare
 
 ### Paid tools
 
-[Threatmodeler](https://threatmodeler.com/) - An automated threat modeling solution that secures and scales the enterprise software development life cycle
+[Threatmodeler](https://threatmodeler.com) - An automated threat modeling solution that secures and scales the enterprise software development life cycle
 
 [Foreseeti](https://www.foreseeti.com/) - SecuriCAD Vanguard is an attack simulation and automated threat modeling SaaS service that enables you to automatically simulate attacks on a virtual model of your AWS environment
 
