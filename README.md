@@ -25,7 +25,7 @@ A curated list of threat modeling resources ( Books, courses - free and paid, vi
 
 -  [Threat Modeling: Designing for Security ](https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998)  by Adam Shostack
 
-- [Threat Modeling](https://www.amazon.in/Threat-Modeling-Microsoft-Professional-Swiderski/dp/0735619913) by  Frank Swiderski , Window Snyder  
+- [Threat Modeling](https://www.amazon.in/Threat-Modeling-Microsoft-Professional-Swiderski/dp/0735619913) by  Frank Swiderski, Window Snyder  
 
 
 - [Risk Centric Threat Modeling: Process for Attack Simulation and Threat Analysis](https://www.amazon.in/Risk-Centric-Threat-Modeling-Simulation/dp/0470500964)
@@ -97,7 +97,11 @@ MIT OpenCourseWare
 
 ## Tutorials and Blogs
 
-*Tutorials and blogs which explain threat modeling*
+*Tutorials and blogs that explain threat modeling*
+
+[Threat Modeling: What, Why, and How?](https://misti.com/infosec-insider/threat-modeling-what-why-and-how) By Adam Shostack
+
+[Threat Modeling: 12 Available Methods](https://insights.sei.cmu.edu/sei_blog/2018/12/threat-modeling-12-available-methods.html) By Carnegie Mellon University
 
 [What Is Security Threat Modeling?](https://www.dummies.com/programming/certification/security-threat-modeling/) by Lawrence C. Miller, Peter H. Gregory
 
@@ -105,7 +109,7 @@ MIT OpenCourseWare
 
 [Threat Modeling in the Enterprise, Part 1: Understanding the Basics](https://securityintelligence.com/threat-modeling-in-the-enterprise-part-1-understanding-the-basics/) by Stiliyana Simeonova 
 
-[Threat Modeling: What, Why, and How?](https://misti.com/infosec-insider/threat-modeling-what-why-and-how) By Adam Shostack
+[Approachable threat modeling](https://increment.com/security/approachable-threat-modeling/) by 
 
 [Threat Modeling for Dummies](https://www.slideshare.net/AdamEnglander/threat-modeling-for-dummies-cascadia-php-2018) by Adam Englander
 
@@ -131,7 +135,7 @@ MIT OpenCourseWare
 
 [How to get started with Threat Modeling, before you get hacked](https://hackernoon.com/how-to-get-started-with-threat-modeling-before-you-get-hacked-1bf0ea3310df) by  Hackernoon
 
-[Thread Modeling tutoria](https://www.geeksforgeeks.org/threat-modelling/) by Geeks For Geeks
+[Thread Modeling tutorial](https://www.geeksforgeeks.org/threat-modelling/) by Geeks For Geeks
 
 [How to analyze the security of your application with threat modeling](https://www.freecodecamp.org/news/threat-modeling-goran-aviani/) by Goran Aviani
 
@@ -142,6 +146,15 @@ MIT OpenCourseWare
 [7 Easy Steps For Building a Scalable Threat Modeling Process](https://go.threatmodeler.com/7-steps-building-scalable-threat-modeling-process) by Threatmodeler
 
 [Where is my Threat Model?](https://blog.appsecco.com/where-is-my-threat-model-b6f8b077ac47) by Abhisek Datta
+
+
+## Threat Model examples
+
+[SSL Threat model](https://www.ssllabs.com/downloads/SSL_Threat_Model.png) by Qualys
+
+[DNS Security: Threat Modeling DNSSEC, DoT, and DoH](https://www.netmeister.org/blog/doh-dot-dnssec.html) by Jan Schaumann
+
+[Email Encryption Gateway Threat model](https://www.slideshare.net/NCC_Group/real-world-application-threat-modelling-by-example) by NCC Group
 
 
 ## Tools
@@ -156,9 +169,9 @@ MIT OpenCourseWare
 
 [Owasp-threat-dragon-gitlab](https://github.com/appsecco/owasp-threat-dragon-gitlab) - This project is a fork of the original OWASP Threat Dragon web application by Mike Goodwin with Gitlab integration instead of Github. You can use it with the Gitlab.com or your own instance of Gitlab.
 
-[raindance](https://github.com/devsecops/raindance) - Project intended to make Attack Maps part of software development by reducing the time it takes to complete them
+[Raindance](https://github.com/devsecops/raindance) - Project intended to make Attack Maps part of software development by reducing the time it takes to complete them
 
-[threatspec](https://threatspec.org/) - Threatspec is an open source project that aims to close the gap between development and security by bringing the threat modelling process further into the development process. 
+[Threatspec](https://threatspec.org/) - Threatspec is an open source project that aims to close the gap between development and security by bringing the threat modelling process further into the development process. 
 
 
 ### Paid tools
