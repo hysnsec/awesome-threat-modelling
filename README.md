@@ -1,7 +1,7 @@
 
 # Awesome Threat Modeling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
-[<img src="images/awesome-threat-modelling.png">](https://practical-devsecops.com/)
+[<img src="images/awesome-threat-modelling.png">](https://www.practical-devsecops.com/devsecops-university/)
 
 A curated list of threat modeling resources (books, courses - free and paid, videos, tools, tutorials and workshop to practice on) for learning Threat modeling and initial phases of security review.
 
