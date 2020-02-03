@@ -1,5 +1,5 @@
 
-# Awesome Threat Modeling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome Threat Modeling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="images/awesome-threat-modelling.png">](https://www.practical-devsecops.com/devsecops-university/)
 
@@ -34,7 +34,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *Courses/Training videos on threat modeling.*
 
 
-### Free  
+### Free
 
 - [Threat Modeling, or Architectural Risk Analysis by Coursera](https://www.coursera.org/lecture/software-security/threat-modeling-or-architectural-risk-analysis-bQAoU)
 
@@ -82,12 +82,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Fixing Threat Models with OWASP Efforts](https://www.youtube.com/watch?v=-dQcg0FDLpk)
 
-- [Designing for Security through Threat Modelling](https://www.youtube.com/watch?v=6fhEdJ9YcU0) 
+- [Designing for Security through Threat Modelling](https://www.youtube.com/watch?v=6fhEdJ9YcU0)
 
 - [Unlocking Threat Modeling](https://www.youtube.com/watch?v=J_ksjjUz73s)
 
 - [An Agile Approach to Threat Modeling for Securing Open Source Project EdgeX Foundry](https://www.youtube.com/watch?v=iw-FzeKaj48)
 
+- [Threat Modeling 101 (SAFECode On Demand Training Course)](https://www.youtube.com/watch?v=QQ7StGiy_-M)
 ## Tutorials and Blogs
 
 *Tutorials and blogs that explain threat modeling*
@@ -151,6 +152,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Email Encryption Gateway Threat model by NCC Group](https://www.slideshare.net/NCC_Group/real-world-application-threat-modelling-by-example)
 
+- [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook)
+
+- [Kubernetes Threat Model](https://github.com/kubernetes/community/tree/master/wg-security-audit/findings)
+
+
 
 ## Tools
 
@@ -166,7 +172,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Raindance](https://github.com/devsecops/raindance) - Project intended to make Attack Maps part of software development by reducing the time it takes to complete them.
 
-- [Threatspec](https://threatspec.org/) - Threatspec is an open source project that aims to close the gap between development and security by bringing the threat modelling process further into the development process. 
+- [Threatspec](https://threatspec.org/) - Threatspec is an open source project that aims to close the gap between development and security by bringing the threat modelling process further into the development process.
+
+- [PyTM](https://github.com/izar/pytm) - PyTM is an open source project providing a library for threat modeling with code. Describe your system using OO syntax (object.property = value) and have your threat modeling report automatically generated.
 
 
 ### Paid tools
@@ -183,6 +191,4 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Contributing
 
-Please refer the guidelines at [contributing.md for details](contributing.md).
-
-
+Please refer the guidelines at [contributing.md for details](Contributing.md).
