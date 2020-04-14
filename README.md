@@ -158,7 +158,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Free tools
 
-- [OWASP Threat Dragon](https://www.owasp.org/index.php/OWASP_Threat_Dragon) - An online threat modelling web application including system diagramming and a rule engine to auto-generate threats/mitigations.
+- [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/) - An online threat modelling web application including system diagramming and a rule engine to auto-generate threats/mitigations.
 
 - [Microsoft Threat Modeling Tool](https://docs.microsoft.com/en-gb/azure/security/develop/threat-modeling-tool) - Microsoft Threat Modeling Tool 2016 is a tool that helps in finding threats in the design phase of software projects.
 
