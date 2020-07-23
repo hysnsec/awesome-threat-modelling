@@ -140,11 +140,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [The Power of a Tailored Threat Model Whitepaper](https://www.lookingglasscyber.com/resources/white-papers/the-power-of-a-tailored-threat-model/)
 
-- [7 Easy Steps For Building a Scalable Threat Modeling Process](https://go.threatmodeler.com/7-steps-building-scalable-threat-modeling-process)
+- [7 Easy Steps For Building a Scalable Threat Modeling Process](https://threatmodeler.com/wp-content/uploads/2018/12/7-Easy-Steps-for-Building-a-Scalable-Threat-Modeling-Process-copy.pdf)
 
 - [Where is my Threat Model?](https://blog.appsecco.com/where-is-my-threat-model-b6f8b077ac47)
 
-- [Threat Modeling in a Risk Assessment Process](https://threatmodeler.com/wp-content/uploads/2018/12/7-Easy-Steps-for-Building-a-Scalable-Threat-Modeling-Process-copy.pdf)
+- [Threat Modeling in a Risk Assessment Process](https://www.security-analyst.org/threat-analysis-and-risk-assessment/)
 
 
 ## Threat Model examples
