@@ -144,7 +144,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Where is my Threat Model?](https://blog.appsecco.com/where-is-my-threat-model-b6f8b077ac47)
 
-- [Threat Modeling in a Risk Assessment Process](https://www.security-analyst.org/threat-analysis-and-risk-assessment/)
+- [Threat Modeling in a Risk Assessment Process](https://threatmodeler.com/wp-content/uploads/2018/12/7-Easy-Steps-for-Building-a-Scalable-Threat-Modeling-Process-copy.pdf)
 
 
 ## Threat Model examples
