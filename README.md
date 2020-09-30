@@ -89,6 +89,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [An Agile Approach to Threat Modeling for Securing Open Source Project EdgeX Foundry](https://www.youtube.com/watch?v=iw-FzeKaj48)
 
 - [Threat Modeling 101 (SAFECode On Demand Training Course)](https://www.youtube.com/watch?v=QQ7StGiy_-M)
+
+- [Introduction to Threat Modeling by Avi Douglen](https://www.youtube.com/watch?v=yjvSI755auM&t=5069s)
 ## Tutorials and Blogs
 
 *Tutorials and blogs that explain threat modeling*
