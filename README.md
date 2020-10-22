@@ -125,7 +125,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threat Modeling: a Summary of Available Methods Whitepaper](https://resources.sei.cmu.edu/asset_files/WhitePaper/2018_019_001_524597.pdf)
 
-- [Threat Modelling Toolkit](https://www.owasp.org/images/0/00/Threat_Modelling_-_STRIDE_Cards_-_TW_Branded.pdf)
+- [Threat Modelling Toolkit](https://owasp.org/www-pdf-archive/Threat_Modelling_-_STRIDE_Cards_-_TW_Branded.pdf)
 
 - [How to get started with Threat Modeling, before you get hacked](https://hackernoon.com/how-to-get-started-with-threat-modeling-before-you-get-hacked-1bf0ea3310df)
 
