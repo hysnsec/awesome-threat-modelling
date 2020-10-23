@@ -26,7 +26,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Risk Centric Threat Modeling: Process for Attack Simulation and Threat Analysis](https://www.amazon.in/Risk-Centric-Threat-Modeling-Simulation/dp/0470500964)
 
-- [Threat Modeling](https://www.oreilly.com/library/view/threat-modeling/9781492056546/)
+- [Threat Modeling: A Practical Guide for Development Teams](https://www.oreilly.com/library/view/threat-modeling/9781492056546/)
 
 
 ## Courses
@@ -91,6 +91,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Threat Modeling 101 (SAFECode On Demand Training Course)](https://www.youtube.com/watch?v=QQ7StGiy_-M)
 
 - [Introduction to Threat Modeling by Avi Douglen](https://www.youtube.com/watch?v=yjvSI755auM&t=5069s)
+
+- [Look, there's a threat model in my DevOps](https://www.youtube.com/watch?v=ASwZ7cnz-Q4&ab_channel=Auth0)
 ## Tutorials and Blogs
 
 *Tutorials and blogs that explain threat modeling*
@@ -176,7 +178,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threatspec](https://threatspec.org/) - Threatspec is an open source project that aims to close the gap between development and security by bringing the threat modelling process further into the development process.
 
-- [PyTM](https://github.com/izar/pytm) - PyTM is an open source project providing a library for threat modeling with code. Describe your system using OO syntax (object.property = value) and have your threat modeling report automatically generated.
+- [PyTM](https://github.com/izar/pytm) - PyTM is an open source project providing a library for threat modeling with code. Describe your system using OO syntax (object.property = value) and have your threat modeling report automatically generated. 100+ threats currently supported.
 
 
 ### Paid tools
