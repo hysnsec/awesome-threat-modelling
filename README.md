@@ -143,6 +143,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Where is my Threat Model?](https://blog.appsecco.com/where-is-my-threat-model-b6f8b077ac47)
 
+- [Secure Slack bot an exercise in threat modeling](https://diablohorn.com/2019/11/18/secure-slack-bot-an-exercise-in-threat-modeling/)
+
 
 ## Threat Model examples
 
