@@ -158,7 +158,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook)
 
-- [Kubernetes Threat Model](https://github.com/kubernetes/community/tree/master/wg-security-audit/findings)
+- [Kubernetes Threat Model](https://github.com/kubernetes/community/tree/master/sig-security/security-audit-2019/findings)
 
 
 
