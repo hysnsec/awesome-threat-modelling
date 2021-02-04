@@ -180,7 +180,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [PyTM](https://github.com/izar/pytm) - PyTM is an open source project providing a library for threat modeling with code. Describe your system using OO syntax (object.property = value) and have your threat modeling report automatically generated. 100+ threats currently supported.
 
-- [MAL]-(https://mal-lang.org) - MAL is an open source project that supports creation of cyber threat modeling systems for specific domains such as SCADA/OT, automotive and Cloud. MAL allows for threat modelling and attack simulations of specific environments. MAL is one of the underlying technologies of the [Foreseeti](https://www.foreseeti.com) paid tool.
+- [MAL](https://mal-lang.org) - MAL is an open source project that supports creation of cyber threat modeling systems for specific domains such as SCADA/OT, automotive and Cloud. MAL allows for threat modelling and attack simulations of specific environments. MAL is one of the underlying technologies of the [Foreseeti](https://www.foreseeti.com) paid tool.
 
 
 ### Paid tools
