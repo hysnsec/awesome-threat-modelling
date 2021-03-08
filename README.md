@@ -189,6 +189,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [SD elements](https://www.securitycompass.com/sdelements/threat-modeling/) - Automate Threat Modeling with SD Elements.
 
 - [Foreseeti](https://www.foreseeti.com/) - SecuriCAD Vanguard is an attack simulation and automated threat modeling SaaS service that enables you to automatically simulate attacks on a virtual model of your AWS environment.
+- [Tutamen Threat Model system](https://www.tutamantic.com) - Only tool in the market that allows threat model metadata to be added to any software diagram, turning that diagram into a threat model. Full SaaS product that is simple to use, requires no lock-in license, and is driven by the Common Weakness Enumeration, STRIDE and OWASP Top 10.
+
 
 ## Sponsor
 
