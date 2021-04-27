@@ -156,7 +156,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Where is my Threat Model?](https://blog.appsecco.com/where-is-my-threat-model-b6f8b077ac47)
 
-- [Threat Modeling in a Risk Assessment Process](https://www.security-analyst.org/threat-analysis-and-risk-assessment/)
+- [Secure Slack bot an exercise in threat modeling](https://diablohorn.com/2019/11/18/secure-slack-bot-an-exercise-in-threat-modeling/)
 
 
 ## Threat Model examples
@@ -173,7 +173,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Kubernetes Threat Model](https://github.com/kubernetes/community/tree/master/sig-security/security-audit-2019/findings)
 
-- [ISO/SAE 21434 Annex G Example in YAKINDU Security Analyst](https://github.com/Yakindu/YSA-examples)
+- [ISO/SAE 21434 Annex G Example](https://github.com/Yakindu/YSA-examples)
 
 
 
@@ -195,8 +195,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [PyTM](https://github.com/izar/pytm) - PyTM is an open source project providing a library for threat modeling with code. Describe your system using OO syntax (object.property = value) and have your threat modeling report automatically generated. 100+ threats currently supported.
 
-- [MAL](https://mal-lang.org) - MAL is an open source project that supports creation of cyber threat modeling systems and attack simulations. MAL is one of the underlying technologies of the [Foreseeti](https://www.foreseeti.com) paid tool.
-
+- [MAL](https://mal-lang.org) - MAL is an open source project that supports creation of cyber threat modeling systems and attack simulations. 
 
 ### Paid tools
 
