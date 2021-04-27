@@ -8,6 +8,7 @@ A curated list of threat modeling resources (books, courses - free and paid, vid
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
 ## Contents
+- [Fundamentals](#fundamentals)
 - [Books](#books)
 - [Courses](#courses)
 - [Videos](#videos)
@@ -15,6 +16,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Threat Model examples](#threat-model-examples)
 - [Tools](#tools)
 - [Sponsor](#sponsor)
+
+
+## Fundamentals
+
+- [The Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org)
+
 
 ## Books
 
