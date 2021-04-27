@@ -98,9 +98,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threat Modeling 101 (SAFECode On Demand Training Course)](https://www.youtube.com/watch?v=QQ7StGiy_-M)
 
+- [ISO/SAE 21434 by Example](https://youtu.be/3LsNx-ljIK8?t=1180)
+
 - [Introduction to Threat Modeling by Avi Douglen](https://www.youtube.com/watch?v=yjvSI755auM&t=5069s)
 
 - [Look, there's a threat model in my DevOps](https://www.youtube.com/watch?v=ASwZ7cnz-Q4&ab_channel=Auth0)
+
 ## Tutorials and Blogs
 
 *Tutorials and blogs that explain threat modeling*
@@ -149,9 +152,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [The Power of a Tailored Threat Model Whitepaper](https://www.lookingglasscyber.com/resources/white-papers/the-power-of-a-tailored-threat-model/)
 
-- [7 Easy Steps For Building a Scalable Threat Modeling Process](https://go.threatmodeler.com/7-steps-building-scalable-threat-modeling-process)
+- [7 Easy Steps For Building a Scalable Threat Modeling Process](https://threatmodeler.com/wp-content/uploads/2018/12/7-Easy-Steps-for-Building-a-Scalable-Threat-Modeling-Process-copy.pdf)
 
 - [Where is my Threat Model?](https://blog.appsecco.com/where-is-my-threat-model-b6f8b077ac47)
+
+- [Threat Modeling in a Risk Assessment Process](https://www.security-analyst.org/threat-analysis-and-risk-assessment/)
 
 
 ## Threat Model examples
@@ -167,6 +172,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook)
 
 - [Kubernetes Threat Model](https://github.com/kubernetes/community/tree/master/sig-security/security-audit-2019/findings)
+
+- [ISO/SAE 21434 Annex G Example in YAKINDU Security Analyst](https://github.com/Yakindu/YSA-examples)
 
 
 
@@ -194,12 +201,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Paid tools
 
 - [Irius risk](https://iriusrisk.com/threat-modeling-tool/) - Iriusrisk is a threat modeling tool with an adaptive questionnaire driven by an expert system which guides the user through straight forward questions about the technical architecture, the planned features and security context of the application.
-
 - [SD elements](https://www.securitycompass.com/sdelements/threat-modeling/) - Automate Threat Modeling with SD Elements.
-
 - [Foreseeti](https://www.foreseeti.com/) - SecuriCAD Vanguard is an attack simulation and automated threat modeling SaaS service that enables you to automatically simulate attacks on a virtual model of your AWS environment.
-- [Tutamen Threat Model system](https://www.tutamantic.com) - Only tool in the market that allows threat model metadata to be added to any software diagram, turning that diagram into a threat model. Full SaaS product that is simple to use, requires no lock-in license, and is driven by the Common Weakness Enumeration, STRIDE and OWASP Top 10.
-
+- [Tutamen Threat Model system](https://www.tutamantic.com) - This tool allows threat model metadata to be added to any software diagram, turning that diagram into a threat model. It's simple to use, requires no lock-in license, and is driven by the Common Weakness Enumeration, STRIDE and OWASP Top 10.
+- [YAKINDU Security Analyst](https://www.itemis.com/de/yakindu/security-analyst/) - YAKINDU Security Analyst is a model-based software tool for threat analysis and risk assessment of technical systems. You can identify your protection needs, analyze possible threats and calculate the resulting risks. The underlying assessment model and calculation logic are highly customizable and can be integrated into existing toolchains.
 
 ## Sponsor
 
