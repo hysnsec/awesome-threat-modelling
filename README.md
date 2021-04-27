@@ -8,6 +8,7 @@ A curated list of threat modeling resources (books, courses - free and paid, vid
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
 ## Contents
+- [Fundamentals](#fundamentals)
 - [Books](#books)
 - [Courses](#courses)
 - [Videos](#videos)
@@ -15,6 +16,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Threat Model examples](#threat-model-examples)
 - [Tools](#tools)
 - [Sponsor](#sponsor)
+
+
+## Fundamentals
+
+- [The Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org)
+
 
 ## Books
 
@@ -26,7 +33,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Risk Centric Threat Modeling: Process for Attack Simulation and Threat Analysis](https://www.amazon.in/Risk-Centric-Threat-Modeling-Simulation/dp/0470500964)
 
-- [Threat Modeling](https://www.oreilly.com/library/view/threat-modeling/9781492056546/)
+- [Threat Modeling: A Practical Guide for Development Teams](https://www.oreilly.com/library/view/threat-modeling/9781492056546/)
 
 
 ## Courses
@@ -39,6 +46,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Threat Modeling, or Architectural Risk Analysis by Coursera](https://www.coursera.org/lecture/software-security/threat-modeling-or-architectural-risk-analysis-bQAoU)
 
 - [Threat Modeling Workshop by Robert Hurlbut](https://github.com/rhurlbut/CodeMash2019/blob/master/Robert-Hurlbut-CodeMash2019-Threat-Modeling-Workshop-20190108.pdf)
+- [Rapid Threat Model Prototyping (RTMP)](https://github.com/geoffrey-hill-tutamantic/rapid-threat-model-prototyping-docs) - Methodology to create quick threat models (1) add threat metadata describing the threats and mitigations directly to software diagrams using 11 simple and repeatable steps (2) integrate these steps into Agile workstreams (3) how to best use the outputs of a threat model (Threats & Mitigations)
 
 
 ### Paid
@@ -90,7 +98,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threat Modeling 101 (SAFECode On Demand Training Course)](https://www.youtube.com/watch?v=QQ7StGiy_-M)
 
+- [ISO/SAE 21434 by Example](https://youtu.be/3LsNx-ljIK8?t=1180)
+
 - [Introduction to Threat Modeling by Avi Douglen](https://www.youtube.com/watch?v=yjvSI755auM&t=5069s)
+
+- [Look, there's a threat model in my DevOps](https://www.youtube.com/watch?v=ASwZ7cnz-Q4&ab_channel=Auth0)
+
 ## Tutorials and Blogs
 
 *Tutorials and blogs that explain threat modeling*
@@ -139,7 +152,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [The Power of a Tailored Threat Model Whitepaper](https://www.lookingglasscyber.com/resources/white-papers/the-power-of-a-tailored-threat-model/)
 
-- [7 Easy Steps For Building a Scalable Threat Modeling Process](https://go.threatmodeler.com/7-steps-building-scalable-threat-modeling-process)
+- [7 Easy Steps For Building a Scalable Threat Modeling Process](https://threatmodeler.com/wp-content/uploads/2018/12/7-Easy-Steps-for-Building-a-Scalable-Threat-Modeling-Process-copy.pdf)
 
 - [Where is my Threat Model?](https://blog.appsecco.com/where-is-my-threat-model-b6f8b077ac47)
 
@@ -158,7 +171,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook)
 
-- [Kubernetes Threat Model](https://github.com/kubernetes/community/tree/master/wg-security-audit/findings)
+- [Kubernetes Threat Model](https://github.com/kubernetes/community/tree/master/sig-security/security-audit-2019/findings)
+
+- [ISO/SAE 21434 Annex G Example](https://github.com/Yakindu/YSA-examples)
 
 
 
@@ -178,16 +193,17 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threatspec](https://threatspec.org/) - Threatspec is an open source project that aims to close the gap between development and security by bringing the threat modelling process further into the development process.
 
-- [PyTM](https://github.com/izar/pytm) - PyTM is an open source project providing a library for threat modeling with code. Describe your system using OO syntax (object.property = value) and have your threat modeling report automatically generated.
+- [PyTM](https://github.com/izar/pytm) - PyTM is an open source project providing a library for threat modeling with code. Describe your system using OO syntax (object.property = value) and have your threat modeling report automatically generated. 100+ threats currently supported.
 
+- [MAL](https://mal-lang.org) - MAL is an open source project that supports creation of cyber threat modeling systems and attack simulations. 
 
 ### Paid tools
 
 - [Irius risk](https://iriusrisk.com/threat-modeling-tool/) - Iriusrisk is a threat modeling tool with an adaptive questionnaire driven by an expert system which guides the user through straight forward questions about the technical architecture, the planned features and security context of the application.
-
 - [SD elements](https://www.securitycompass.com/sdelements/threat-modeling/) - Automate Threat Modeling with SD Elements.
-
 - [Foreseeti](https://www.foreseeti.com/) - SecuriCAD Vanguard is an attack simulation and automated threat modeling SaaS service that enables you to automatically simulate attacks on a virtual model of your AWS environment.
+- [Tutamen Threat Model system](https://www.tutamantic.com) - This tool allows threat model metadata to be added to any software diagram, turning that diagram into a threat model. It's simple to use, requires no lock-in license, and is driven by the Common Weakness Enumeration, STRIDE and OWASP Top 10.
+- [YAKINDU Security Analyst](https://www.itemis.com/de/yakindu/security-analyst/) - YAKINDU Security Analyst is a model-based software tool for threat analysis and risk assessment of technical systems. You can identify your protection needs, analyze possible threats and calculate the resulting risks. The underlying assessment model and calculation logic are highly customizable and can be integrated into existing toolchains.
 
 ## Sponsor
 
