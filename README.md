@@ -199,6 +199,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [MAL](https://mal-lang.org) - MAL is an open source project that supports creation of cyber threat modeling systems and attack simulations. 
 
+- [Threagile](https://github.com/Threagile/threagile) - Threagile is an open-source toolkit for agile threat modeling
+
 ### Paid tools
 
 - [Irius risk](https://iriusrisk.com/threat-modeling-tool/) - Iriusrisk is a threat modeling tool with an adaptive questionnaire driven by an expert system which guides the user through straight forward questions about the technical architecture, the planned features and security context of the application.
