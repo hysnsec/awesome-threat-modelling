@@ -201,6 +201,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threagile](https://github.com/Threagile/threagile) - Threagile is an open-source toolkit for agile threat modeling
 
+- [Deciduous](https://github.com/rpetrich/deciduous) - A web app that simplifies building attack decision trees. Hosted at https://www.deciduous.app/
+
 ### Paid tools
 
 - [Irius risk](https://iriusrisk.com/threat-modeling-tool/) - Iriusrisk is a threat modeling tool with an adaptive questionnaire driven by an expert system which guides the user through straight forward questions about the technical architecture, the planned features and security context of the application.
