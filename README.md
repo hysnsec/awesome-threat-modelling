@@ -201,6 +201,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threagile](https://github.com/Threagile/threagile) - Threagile is an open-source toolkit for agile threat modeling
 
+- [Threat Modeling Online Game](https://github.com/dehydr8/elevation-of-privilege) - Online version of the Elevation of Privilege and Cornucopia card games. The easy way to get started with threat modeling.
+
 ### Paid tools
 
 - [Irius risk](https://iriusrisk.com/threat-modeling-tool/) - Iriusrisk is a threat modeling tool with an adaptive questionnaire driven by an expert system which guides the user through straight forward questions about the technical architecture, the planned features and security context of the application.
