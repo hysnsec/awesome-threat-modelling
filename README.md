@@ -159,6 +159,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Secure Slack bot an exercise in threat modeling](https://diablohorn.com/2019/11/18/secure-slack-bot-an-exercise-in-threat-modeling/)
 
+- [Secpillars.com Threat Modeling blog posts](https://blog.secpillars.com/search/label/Threat%20Modeling)
+
 
 ## Threat Model examples
 
@@ -178,7 +180,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [ISO/SAE 21434 Annex G Example](https://github.com/Yakindu/YSA-examples)
 
-
+- [Secure Trusted Firmware for ARM processors](https://tf-m-user-guide.trustedfirmware.org/docs/security/threat_models/generic_threat_model.html)
 
 ## Tools
 
