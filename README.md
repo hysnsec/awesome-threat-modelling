@@ -65,6 +65,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threat Modeling or Whiteboard Hacking training](https://www.toreon.com/threatmodeling/)
 
+- [Kubernetes Threat Modeling](https://learning.oreilly.com/live-events/kubernetes-threat-modeling/0636920055610/0636920059945/)
 
 ## Videos
 
@@ -202,6 +203,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Threagile](https://github.com/Threagile/threagile) - Threagile is an open-source toolkit for agile threat modeling
 
 - [Threat Modeling Online Game](https://github.com/dehydr8/elevation-of-privilege) - Online version of the Elevation of Privilege and Cornucopia card games. The easy way to get started with threat modeling.
+
+- [Deciduous](https://github.com/rpetrich/deciduous) - A web app that simplifies building attack decision trees. Hosted at https://www.deciduous.app/
 
 ### Paid tools
 
