@@ -65,6 +65,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threat Modeling or Whiteboard Hacking training](https://www.toreon.com/threatmodeling/)
 
+- [Kubernetes Threat Modeling](https://learning.oreilly.com/live-events/kubernetes-threat-modeling/0636920055610/0636920059945/)
 
 ## Videos
 
