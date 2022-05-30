@@ -158,6 +158,29 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Secure Slack bot an exercise in threat modeling](https://diablohorn.com/2019/11/18/secure-slack-bot-an-exercise-in-threat-modeling/)
 
+- [DNS Security: Threat Modeling DNSSEC, DoT, and DoH](https://www.netmeister.org/blog/doh-dot-dnssec.html)
+
+- [Playbook for Threat Modeling Medical Devices](https://www.mitre.org/sites/default/files/publications/Playbook-for-Threat-Modeling-Medical-Devices.pdf)
+
+- [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf)
+
+ - [Threat Modeling Contact Tracing Applications](https://www.linkedin.com/pulse/threat-modeling-contact-tracing-applications-jakub-kaluzny/)
+
+ - [Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process)
+ 
+ - [Developers Guide Securing Mobile Applications](https://www.synopsys.com/content/dam/synopsys/sig-assets/ebooks/developers-guide-securing-mobile-applications-threat-modeling.pdf)
+
+ - [Finding Vulnerabilities In Swiss Posts](https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html?m=1#AttackSurface)
+
+ - [Threat Matrix  CI/CD](https://github.com/rung/threat-matrix-cicd)
+
+ - [Top 10 CI/CD Security Risks](https://github.com/cider-security-research/top-10-cicd-security-risks)
+
+ - [ECS Fargate Threat Modeling](https://sysdig.com/blog/ecs-fargate-threat-modeling/)
+
+ - [IETF Trans Threat Analysis](https://datatracker.ietf.org/doc/html/draft-ietf-trans-threat-analysis-16)
+
+ - [Secure Password Storage](https://owasp.org/www-pdf-archive//Secure_Password_Storage.pdf)
 
 ## Threat Model examples
 
@@ -175,9 +198,17 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Kubernetes Threat Model](https://github.com/kubernetes/community/tree/master/sig-security/security-audit-2019/findings)
 
+- [K8 Threat Model](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model)
+
 - [ISO/SAE 21434 Annex G Example](https://github.com/Yakindu/YSA-examples)
 
+- [Docker Threat Model](https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/)
 
+- [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model)
+
+- [Account Takeover Threat Model](https://raw.githubusercontent.com/magoo/ato-checklist/master/model.svg)
+
+- [SSL Threat Model](https://www.ssllabs.com/downloads/SSL_Threat_Model.png)
 
 ## Tools
 
