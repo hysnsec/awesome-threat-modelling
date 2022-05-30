@@ -65,6 +65,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threat Modeling or Whiteboard Hacking training](https://www.toreon.com/threatmodeling/)
 
+- [Kubernetes Threat Modeling](https://learning.oreilly.com/live-events/kubernetes-threat-modeling/0636920055610/0636920059945/)
 
 ## Videos
 
@@ -173,7 +174,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook)
 
-- [Kubernetes Threat Model](https://github.com/kubernetes/community/tree/master/sig-security/security-audit-2019/findings)
+- [Kubernetes Threat Model](https://github.com/kubernetes/sig-security/tree/main/sig-security-external-audit/security-audit-2019/findings)
 
 - [ISO/SAE 21434 Annex G Example](https://github.com/Yakindu/YSA-examples)
 
@@ -202,6 +203,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Threagile](https://github.com/Threagile/threagile) - Threagile is an open-source toolkit for agile threat modeling
 
 - [TicTaaC](https://github.com/rusakovichma/TicTaaC) - Threat modeling-as-a-Code in a Tick (TicTaaC). Lightweight and easy-to-use Threat modeling solution following DevSecOps principles
+
+- [Threat Modeling Online Game](https://github.com/dehydr8/elevation-of-privilege) - Online version of the Elevation of Privilege and Cornucopia card games. The easy way to get started with threat modeling.
+
+- [Deciduous](https://github.com/rpetrich/deciduous) - A web app that simplifies building attack decision trees. Hosted at https://www.deciduous.app/
+
 
 ### Paid tools
 
