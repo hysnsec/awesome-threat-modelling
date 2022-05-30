@@ -174,7 +174,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook)
 
-- [Kubernetes Threat Model](https://github.com/kubernetes/community/tree/master/sig-security/security-audit-2019/findings)
+- [Kubernetes Threat Model](https://github.com/kubernetes/sig-security/tree/main/sig-security-external-audit/security-audit-2019/findings)
 
 - [ISO/SAE 21434 Annex G Example](https://github.com/Yakindu/YSA-examples)
 
