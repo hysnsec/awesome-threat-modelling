@@ -178,8 +178,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
  - [ECS Fargate Threat Modeling](https://sysdig.com/blog/ecs-fargate-threat-modeling/)
 
- - [Amazon S3](https://controlcatalog.trustoncloud.com/dashboard/aws/s3#Data%20Flow%20Diagram)
-
  - [IETF Trans Threat Analysis](https://datatracker.ietf.org/doc/html/draft-ietf-trans-threat-analysis-16)
 
  - [Secure Password Storage](https://owasp.org/www-pdf-archive//Secure_Password_Storage.pdf)
@@ -209,6 +207,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model)
 
 - [Account Takeover Threat Model](https://raw.githubusercontent.com/magoo/ato-checklist/master/model.svg)
+
+- [Amazon S3](https://controlcatalog.trustoncloud.com/dashboard/aws/s3#Data%20Flow%20Diagram)
 
 ## Tools
 
