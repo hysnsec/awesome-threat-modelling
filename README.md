@@ -200,7 +200,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook)
 
-- [K8 Threat Model](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model)
+- [Kubernetes Threat Model](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model)
 
 - [ISO/SAE 21434 Annex G Example](https://github.com/Yakindu/YSA-examples)
 
