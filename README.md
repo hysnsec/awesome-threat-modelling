@@ -158,8 +158,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Secure Slack bot an exercise in threat modeling](https://diablohorn.com/2019/11/18/secure-slack-bot-an-exercise-in-threat-modeling/)
 
-- [DNS Security: Threat Modeling DNSSEC, DoT, and DoH](https://www.netmeister.org/blog/doh-dot-dnssec.html)
-
 - [Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process)
  
 - [Developers Guide Securing Mobile Applications](https://www.synopsys.com/content/dam/synopsys/sig-assets/ebooks/developers-guide-securing-mobile-applications-threat-modeling.pdf)
@@ -190,6 +188,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [ISO/SAE 21434 Annex G Example](https://github.com/Yakindu/YSA-examples)
 
 - [Docker Threat Model](https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/)
+
+- [DNS Security: Threat Modeling DNSSEC, DoT, and DoH](https://www.netmeister.org/blog/doh-dot-dnssec.html)
 
 - [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model)
 
