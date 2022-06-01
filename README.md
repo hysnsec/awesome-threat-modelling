@@ -178,9 +178,15 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
  - [ECS Fargate Threat Modeling](https://sysdig.com/blog/ecs-fargate-threat-modeling/)
 
+ - [Amazon S3](https://controlcatalog.trustoncloud.com/dashboard/aws/s3#Data%20Flow%20Diagram)
+
  - [IETF Trans Threat Analysis](https://datatracker.ietf.org/doc/html/draft-ietf-trans-threat-analysis-16)
 
  - [Secure Password Storage](https://owasp.org/www-pdf-archive//Secure_Password_Storage.pdf)
+
+ - [Human Threat Model](https://github.com/JWWeatherman/human_threat_model)
+
+ - [Smart Home Threat Model](https://github.com/kkredit/smart-home-threat-model)
 
 ## Threat Model examples
 
@@ -190,13 +196,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [SSL Threat model by Qualys](https://www.ssllabs.com/downloads/SSL_Threat_Model.png)
 
-- [DNS Security: Threat Modeling DNSSEC, DoT, and DoH by Jan Schuamann](https://www.netmeister.org/blog/doh-dot-dnssec.html)
-
 - [Email Encryption Gateway Threat model by NCC Group](https://www.slideshare.net/NCC_Group/real-world-application-threat-modelling-by-example)
 
 - [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook)
-
-- [Kubernetes Threat Model](https://github.com/kubernetes/community/tree/master/sig-security/security-audit-2019/findings)
 
 - [K8 Threat Model](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model)
 
@@ -207,8 +209,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model)
 
 - [Account Takeover Threat Model](https://raw.githubusercontent.com/magoo/ato-checklist/master/model.svg)
-
-- [SSL Threat Model](https://www.ssllabs.com/downloads/SSL_Threat_Model.png)
 
 ## Tools
 
