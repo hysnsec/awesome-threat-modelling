@@ -65,6 +65,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threat Modeling or Whiteboard Hacking training](https://www.toreon.com/threatmodeling/)
 
+- [Kubernetes Threat Modeling](https://learning.oreilly.com/live-events/kubernetes-threat-modeling/0636920055610/0636920059945/)
 
 ## Videos
 
@@ -170,10 +171,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [ECS Fargate Threat Modeling](https://sysdig.com/blog/ecs-fargate-threat-modeling/)
 
+- [Kubernetes Attack Trees](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model)
+
 
 ## Threat Model examples
 
 *Threat model examples for reference.*
+
+- [DNS Security: Threat Modeling DNSSEC, DoT, and DoH](https://www.netmeister.org/blog/doh-dot-dnssec.html)
 
 - [OAuth 2.0 Threat Model and Security Considerations](https://datatracker.ietf.org/doc/html/rfc6819)
 
@@ -183,13 +188,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook)
 
-- [Kubernetes Threat Model](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model)
+- [Kubernetes Threat Model](https://github.com/kubernetes/sig-security/tree/main/sig-security-external-audit/security-audit-2019/findings)
 
 - [ISO/SAE 21434 Annex G Example](https://github.com/Yakindu/YSA-examples)
 
 - [Docker Threat Model](https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/)
-
-- [DNS Security: Threat Modeling DNSSEC, DoT, and DoH](https://www.netmeister.org/blog/doh-dot-dnssec.html)
 
 - [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model)
 
@@ -232,6 +235,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [MAL](https://mal-lang.org) - MAL is an open source project that supports creation of cyber threat modeling systems and attack simulations. 
 
 - [Threagile](https://github.com/Threagile/threagile) - Threagile is an open-source toolkit for agile threat modeling
+
+- [TicTaaC](https://github.com/rusakovichma/TicTaaC) - Threat modeling-as-a-Code in a Tick (TicTaaC). Lightweight and easy-to-use Threat modeling solution following DevSecOps principles
+
+- [Threat Modeling Online Game](https://github.com/dehydr8/elevation-of-privilege) - Online version of the Elevation of Privilege and Cornucopia card games. The easy way to get started with threat modeling.
+
+- [Deciduous](https://github.com/rpetrich/deciduous) - A web app that simplifies building attack decision trees. Hosted at https://www.deciduous.app/
+
 
 ### Paid tools
 
