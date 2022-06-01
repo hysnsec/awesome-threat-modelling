@@ -158,6 +158,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Secure Slack bot an exercise in threat modeling](https://diablohorn.com/2019/11/18/secure-slack-bot-an-exercise-in-threat-modeling/)
 
+- [Secpillars.com Threat Modeling blog posts](https://blog.secpillars.com/search/label/Threat%20Modeling)
+
 - [Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process)
  
 - [Developers Guide Securing Mobile Applications](https://www.synopsys.com/content/dam/synopsys/sig-assets/ebooks/developers-guide-securing-mobile-applications-threat-modeling.pdf)
@@ -190,6 +192,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Kubernetes Threat Model](https://github.com/kubernetes/sig-security/tree/main/sig-security-external-audit/security-audit-2019/findings)
 
 - [ISO/SAE 21434 Annex G Example](https://github.com/Yakindu/YSA-examples)
+
+- [Secure Trusted Firmware for ARM processors](https://tf-m-user-guide.trustedfirmware.org/docs/security/threat_models/generic_threat_model.html)
 
 - [Docker Threat Model](https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/)
 
