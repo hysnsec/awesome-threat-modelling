@@ -1,4 +1,3 @@
-
 # Awesome Threat Modeling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="images/awesome-threat-modelling.png">](https://www.practical-devsecops.com/devsecops-university/)
@@ -161,16 +160,30 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Secpillars.com Threat Modeling blog posts](https://blog.secpillars.com/search/label/Threat%20Modeling)
 
+- [Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process)
+ 
+- [Developers Guide Securing Mobile Applications](https://www.synopsys.com/content/dam/synopsys/sig-assets/ebooks/developers-guide-securing-mobile-applications-threat-modeling.pdf)
+
+- [Finding Vulnerabilities In Swiss Posts](https://www.reversemode.com/2022/01/finding-vulnerabilities-in-swiss-posts.html?m=1#AttackSurface)
+
+- [Threat Matrix  CI/CD](https://github.com/rung/threat-matrix-cicd)
+
+- [Top 10 CI/CD Security Risks](https://github.com/cider-security-research/top-10-cicd-security-risks)
+
+- [ECS Fargate Threat Modeling](https://sysdig.com/blog/ecs-fargate-threat-modeling/)
+
+- [Kubernetes Attack Trees](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model)
+
 
 ## Threat Model examples
 
 *Threat model examples for reference.*
 
+- [DNS Security: Threat Modeling DNSSEC, DoT, and DoH](https://www.netmeister.org/blog/doh-dot-dnssec.html)
+
 - [OAuth 2.0 Threat Model and Security Considerations](https://datatracker.ietf.org/doc/html/rfc6819)
 
 - [SSL Threat model by Qualys](https://www.ssllabs.com/downloads/SSL_Threat_Model.png)
-
-- [DNS Security: Threat Modeling DNSSEC, DoT, and DoH by Jan Schuamann](https://www.netmeister.org/blog/doh-dot-dnssec.html)
 
 - [Email Encryption Gateway Threat model by NCC Group](https://www.slideshare.net/NCC_Group/real-world-application-threat-modelling-by-example)
 
@@ -181,6 +194,28 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [ISO/SAE 21434 Annex G Example](https://github.com/Yakindu/YSA-examples)
 
 - [Secure Trusted Firmware for ARM processors](https://tf-m-user-guide.trustedfirmware.org/docs/security/threat_models/generic_threat_model.html)
+
+- [Docker Threat Model](https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/)
+
+- [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model)
+
+- [Account Takeover Threat Model](https://raw.githubusercontent.com/magoo/ato-checklist/master/model.svg)
+
+- [Amazon S3](https://controlcatalog.trustoncloud.com/dashboard/aws/s3#Data%20Flow%20Diagram)
+
+- [Playbook for Threat Modeling Medical Devices](https://www.mitre.org/sites/default/files/publications/Playbook-for-Threat-Modeling-Medical-Devices.pdf)
+
+- [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf)
+
+- [Threat Modeling Contact Tracing Applications](https://www.linkedin.com/pulse/threat-modeling-contact-tracing-applications-jakub-kaluzny/)
+
+- [Secure Password Storage](https://owasp.org/www-pdf-archive//Secure_Password_Storage.pdf)
+
+- [Human Threat Model](https://github.com/JWWeatherman/human_threat_model)
+
+- [Smart Home Threat Model](https://github.com/kkredit/smart-home-threat-model)
+
+- [IETF Trans Threat Analysis](https://datatracker.ietf.org/doc/html/draft-ietf-trans-threat-analysis-16)
 
 ## Tools
 
