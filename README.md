@@ -50,9 +50,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Paid
 
-- [DevSecOps Expert by Practical DevSecOps](https://www.practical-devsecops.com/certified-devsecops-expert/)
-
 - [Certified Threat Modeling Professional by Practical DevSecOps](https://www.practical-devsecops.com/certified-threat-modeling-professional)
+
+- [DevSecOps Expert by Practical DevSecOps](https://www.practical-devsecops.com/certified-devsecops-expert/)
 
 - [Threat Modeling Fundamentals](https://www.pluralsight.com/courses/threat-modeling-fundamentals)
 
