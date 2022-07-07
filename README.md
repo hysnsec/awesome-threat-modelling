@@ -62,6 +62,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threat Modeling: Spoofing In Depth](https://www.lynda.com/IT-tutorials/Threat-Modeling-Spoofing-Depth/769300-2.html?srchtrk=index%3a7%0alinktypeid%3a2%0aq%3athreat+modelling%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
 
+- [Threat Modeling: Tampering in Depth](https://www.lynda.com/IT-tutorials/Threat-Modeling-Tampering-Depth/2810167-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3athreat+modelling%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+
 - [Threat Modeling or Whiteboard Hacking training](https://www.toreon.com/threatmodeling/)
 
 - [Kubernetes Threat Modeling](https://learning.oreilly.com/live-events/kubernetes-threat-modeling/0636920055610/0636920059945/)
