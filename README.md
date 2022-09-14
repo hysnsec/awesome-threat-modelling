@@ -247,6 +247,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Deciduous](https://github.com/rpetrich/deciduous) - A web app that simplifies building attack decision trees. Hosted at https://www.deciduous.app/
 
+- [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - A collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.
+
 
 ### Paid tools
 
