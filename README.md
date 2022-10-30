@@ -51,6 +51,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Rapid Threat Model Prototyping (RTMP)](https://github.com/geoffrey-hill-tutamantic/rapid-threat-model-prototyping-docs) - Methodology to create quick threat models (1) add threat metadata describing the threats and mitigations directly to software diagrams using 11 simple and repeatable steps (2) integrate these steps into Agile workstreams (3) how to best use the outputs of a threat model (Threats & Mitigations)
 
+- [Threat Modeling Security Fundamentals](https://learn.microsoft.com/en-us/training/paths/tm-threat-modeling-fundamentals/)
+
 
 
 ### Paid
