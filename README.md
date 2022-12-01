@@ -185,6 +185,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Kubernetes Attack Trees](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model)
 
+- [The Enchiridion of Impetus Exemplar - A Threat Modeling Field Guide](https://shellsharks.com/threat-modeling)
+
 
 ## Threat Model examples
 
