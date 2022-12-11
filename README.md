@@ -53,6 +53,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threat Modeling Security Fundamentals](https://learn.microsoft.com/en-us/training/paths/tm-threat-modeling-fundamentals/)
 
+- [Threat Modeling the Right Way for Builders Workshop](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13274/threat-modeling-the-right-way-for-builders-workshop) - AWS Skill Builder threat modeling workshop. Requires AWS Skill Builder Login (free).
+
 
 
 ### Paid
@@ -114,6 +116,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Look, there's a threat model in my DevOps](https://www.youtube.com/watch?v=ASwZ7cnz-Q4&ab_channel=Auth0)
 
 - [Lessons from the threat modeling trenches](https://www.youtube.com/watch?v=DEVt1Adybvs)
+
+- [AWS Summit - How to approach threat modelling](https://www.youtube.com/watch?v=GuhIefIGeuA)
 
 ## Tutorials and Blogs
 
@@ -184,6 +188,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [ECS Fargate Threat Modeling](https://sysdig.com/blog/ecs-fargate-threat-modeling/)
 
 - [Kubernetes Attack Trees](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model)
+
+- [The Enchiridion of Impetus Exemplar: A Threat Modeling Field Guide](https://shellsharks.com/threat-modeling)
 
 
 ## Threat Model examples
