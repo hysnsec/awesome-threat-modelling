@@ -234,6 +234,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [IETF Trans Threat Analysis](https://datatracker.ietf.org/doc/html/draft-ietf-trans-threat-analysis-16)
 
+- [OpenSSF CII Threat Models for Open Source Projects (as part of Silver badge criteria)](https://bestpractices.coreinfrastructure.org/de/projects)
+
 ## Tools
 
 *Tools which helps in threat modelling.*
