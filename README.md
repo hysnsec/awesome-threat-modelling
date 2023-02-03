@@ -191,6 +191,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [The Enchiridion of Impetus Exemplar: A Threat Modeling Field Guide](https://shellsharks.com/threat-modeling)
 
+- [Threat Modeling, Zero to Hero](https://threatmodel.mjh.social/)
+
 
 ## Threat Model examples
 
