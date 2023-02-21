@@ -264,6 +264,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - A collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.
 
+- [TTModeler](https://github.com/SecSimon/TTM) - An open source web and desktop application specifically for Internet of Things devices including diagramming, rule-based threat and mitigation generation, integration of best practice guidelines, risk assessment, and reporting.
 
 ### Paid tools
 
