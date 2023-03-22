@@ -191,6 +191,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [The Enchiridion of Impetus Exemplar: A Threat Modeling Field Guide](https://shellsharks.com/threat-modeling)
 
+- [Leveraging Threat Modeling for your SOC/SIEM](https://www.ncsc.gov.uk/collection/building-a-security-operations-centre/onboarding-systems-and-log-sources/threat-modelling)
+
 
 ## Threat Model examples
 
