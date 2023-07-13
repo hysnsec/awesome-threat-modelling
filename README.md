@@ -238,6 +238,17 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [OpenSSF CII Threat Models for Open Source Projects (as part of Silver badge criteria)](https://bestpractices.coreinfrastructure.org/de/projects)
 
+- [ROS 2 Robotic System](https://design.ros2.org/articles/ros2_threat_model.html)
+
+- [IoT Devices](https://www.psacertified.org/development-resources/building-in-security/threat-models/)
+
+- [Certificate Transparency](https://datatracker.ietf.org/doc/html/draft-ietf-trans-threat-analysis-16)
+
+- [AWS Fargate](https://sysdig.com/blog/ecs-fargate-threat-modeling/)
+
+- [Bitcoin](https://github.com/JWWeatherman/bitcoin_security_threat_model)
+
+
 ## Tools
 
 *Tools which helps in threat modelling.*
