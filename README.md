@@ -191,6 +191,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [The Enchiridion of Impetus Exemplar: A Threat Modeling Field Guide](https://shellsharks.com/threat-modeling)
 
+- [Leveraging Threat Modeling for your SOC/SIEM](https://www.ncsc.gov.uk/collection/building-a-security-operations-centre/onboarding-systems-and-log-sources/threat-modelling)
+
 
 ## Threat Model examples
 
@@ -234,6 +236,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [IETF Trans Threat Analysis](https://datatracker.ietf.org/doc/html/draft-ietf-trans-threat-analysis-16)
 
+- [OpenSSF CII Threat Models for Open Source Projects (as part of Silver badge criteria)](https://bestpractices.coreinfrastructure.org/de/projects)
+
 - [ROS 2 Robotic System](https://design.ros2.org/articles/ros2_threat_model.html)
 
 - [IoT Devices](https://www.psacertified.org/development-resources/building-in-security/threat-models/)
@@ -243,6 +247,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [AWS Fargate](https://sysdig.com/blog/ecs-fargate-threat-modeling/)
 
 - [Bitcoin](https://github.com/JWWeatherman/bitcoin_security_threat_model)
+
 
 ## Tools
 
