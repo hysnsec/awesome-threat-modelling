@@ -193,6 +193,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Leveraging Threat Modeling for your SOC/SIEM](https://www.ncsc.gov.uk/collection/building-a-security-operations-centre/onboarding-systems-and-log-sources/threat-modelling)
 
+- [Threat model using a document template (with tooling for validation and governance)](https://threatware.readthedocs.io/en/main/create/overview.html)
+
 
 ## Threat Model examples
 
@@ -278,6 +280,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Deciduous](https://github.com/rpetrich/deciduous) - A web app that simplifies building attack decision trees. Hosted at https://www.deciduous.app/
 
 - [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - A collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.
+
+- [threatware](https://threatware.readthedocs.io/en/main/index.html#) - An AWS lambda function (or CLI tool) with methods to help review threat models and provide a process to manage threat models. It works directly with threat models as documents in Confluence/Google Docs.
 
 
 ### Paid tools
