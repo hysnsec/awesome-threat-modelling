@@ -14,6 +14,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Tutorials and Blogs](#tutorials-and-blogs)
 - [Threat Model examples](#threat-model-examples)
 - [Tools](#tools)
+- [Games](#games)
 - [Sponsor](#sponsor)
 
 
@@ -279,6 +280,21 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - A collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.
 
+## Games
+
+*Games that help learn and execute threat modeling.*
+
+- [Elevation of Privilege](https://shostack.org/games/elevation-of-privilege) - also known as "EoP". All known versions (online, hard-copy, to buy) of the game created by Adam Shostack back in 2010.
+
+- [LINNDUN GO](https://linddun.org/go/) - card deck for Privacy threats according to LINNDUN.
+
+- [Elevation of MLsec](https://github.com/kantega/elevation-of-mlsec) - A Machine Learning variant of EoP based on the work by the [Berryville Institute for Machine Learning](https://berryvilleiml.com) and OWASP Top 10 LLM by Kantega AS
+
+- [Elevation of Privacy](https://github.com/WithSecureOpenSource/elevation-of-privacy) - A Privacy extension to EoP by F-Secure
+
+- [OWASP Cumulus](https://github.com/TNG/cumulus) - Cloud-oriented threat modeling by TNG
+
+- [OWASP Cornucopia](https://owasp.org/www-project-cornucopia/) - based on the OWASP Secure Code Practices Quick Reference Guide, OWASP ASVS and the OWASP Web Security Testing Guide, as well as David Rook's "Principles of Secure Development"
 
 ### Paid tools
 
