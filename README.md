@@ -26,6 +26,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Books on threat modeling.*
 
+- [Desiging secure software (pages 26 to 41), Loren Kohnfelder](https://nostarch.com/designing-secure-software)
+
 - [Threat Modeling: Designing for Security](https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998)
 
 - [Threat Modeling](https://www.amazon.in/Threat-Modeling-Microsoft-Professional-Swiderski/dp/0735619913)
@@ -45,7 +47,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Free
 
-- [Threat Modeling, or Architectural Risk Analysis by Coursera](https://www.coursera.org/lecture/software-security/threat-modeling-or-architectural-risk-analysis-bQAoU)
+- [Threat Modeling by Coursera](https://www.coursera.org/lecture/risk-management-threat-modeling/introduction-to-threat-modeling-KLCpS)
 
 - [Threat Modeling Workshop by Robert Hurlbut](https://github.com/rhurlbut/CodeMash2019/blob/master/Robert-Hurlbut-CodeMash2019-Threat-Modeling-Workshop-20190108.pdf)
 
@@ -55,7 +57,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threat Modeling the Right Way for Builders Workshop](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13274/threat-modeling-the-right-way-for-builders-workshop) - AWS Skill Builder threat modeling workshop. Requires AWS Skill Builder Login (free).
 
-
+- [Getting started with threat modelling](https://archive.org/details/getting_started_with_threat_modelling)
 
 ### Paid
 
