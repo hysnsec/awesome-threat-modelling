@@ -53,8 +53,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Threat Modeling Security Fundamentals](https://learn.microsoft.com/en-us/training/paths/tm-threat-modeling-fundamentals/)
 
-- [Threat Modeling the Right Way for Builders Workshop](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13274/threat-modeling-the-right-way-for-builders-workshop) - AWS Skill Builder threat modeling workshop. Requires AWS Skill Builder Login (free).
-
+- AWS' Threat modeling for builders workshop is available on [AWS Workshop Studio](https://catalog.workshops.aws/threatmodel/en-US), and [AWS Skill Builder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13274/threat-modeling-the-right-way-for-builders-workshop) (requires free AWS Skill Builder account).
 
 
 ### Paid
@@ -193,6 +192,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Leveraging Threat Modeling for your SOC/SIEM](https://www.ncsc.gov.uk/collection/building-a-security-operations-centre/onboarding-systems-and-log-sources/threat-modelling)
 
+- [AWS' How to approach threat modeling](https://aws.amazon.com/blogs/security/how-to-approach-threat-modeling/)
+
 
 ## Threat Model examples
 
@@ -279,6 +280,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - A collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.
 
+- [Threat composer](https://github.com/awslabs/threat-composer) - A simple threat modeling tool to help humans to reduce time-to-value when threat modeling. Try the [hosted version](https://awslabs.github.io/threat-composer/) on awslabs. Data is persisted only client-side within the browser (100% local storage).
 
 ### Paid tools
 
