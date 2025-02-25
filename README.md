@@ -212,7 +212,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [ISO/SAE 21434 Annex G Example](https://github.com/Yakindu/YSA-examples)
 
-- [Secure Trusted Firmware for ARM processors](https://tf-m-user-guide.trustedfirmware.org/docs/security/threat_models/generic_threat_model.html)
+- [Secure Trusted Firmware for ARM processors](https://tf-m-user-guide.trustedfirmware.org/security/threat_models/generic_threat_model.html)
 
 - [Docker Threat Model](https://cloudsecdocs.com/container_security/theory/threats/docker_threat_model/)
 
