@@ -279,6 +279,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - A collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.
 
+- [Darc viewpoint for Capella](https://github.com/eclipse-capella/capella-cybersecurity/blob/master/plugins/org.polarsys.capella.cybersecurity.doc/html/usermanual.mediawiki#user-content-DARC_Viewpoint) - DARC Viewpoint is a Capella viewpoint to manage Cybersecurity and Threats Modeling in relation with Arcadia methodology.
+
 
 ### Paid tools
 
