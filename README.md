@@ -279,6 +279,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - A collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.
 
+- [ThreatPad](https://threat-modeling.net/threatpad/) - Educational online threat/mitigation editor featuring link share collaboration, end-to-end encryption and mobile device support.
 
 ### Paid tools
 
