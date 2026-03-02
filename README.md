@@ -279,6 +279,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - A collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.
 
+- [ThreatModelling.io](https://threatmodelling.io) - Free browser-based threat modelling tool for cloud and on-premises infrastructure. Drag-and-drop AWS, Azure, GCP, and self-hosted services onto a canvas to automatically generate STRIDE-categorised threats with MITRE ATT&CK technique mappings. No signup required — all data stays in your browser.
+
 
 ### Paid tools
 
