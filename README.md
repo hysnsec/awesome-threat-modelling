@@ -279,6 +279,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - A collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.
 
+- [thr8](https://github.com/cybrking/thr8) - A GitHub Action that automatically generates PASTA threat models by analyzing your repository's code, infrastructure, and dependencies using static analysis and AI-powered threat reasoning.
+
 
 ### Paid tools
 
