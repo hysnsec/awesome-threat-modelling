@@ -76,6 +76,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Threat Modeling or Whiteboard Hacking training](https://www.toreon.com/threatmodeling/)
 
 - [Kubernetes Threat Modeling](https://learning.oreilly.com/live-events/kubernetes-threat-modeling/0636920055610/0636920059945/)
+- [TutorialSearch](https://tutorialsearch.io/browse/cybersecurity/cyber-threat) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Videos
 
