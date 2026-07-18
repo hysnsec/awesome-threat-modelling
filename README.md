@@ -249,6 +249,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Bitcoin](https://github.com/JWWeatherman/bitcoin_security_threat_model)
 
 
+- [TMGoat — the Threat-Modeling Goat](https://github.com/virantisofficial/TMGoat) - A benchmark and dojo of 30 realistic architectures with intentionally planted design flaws, hidden answer keys, and a recall/precision scoring harness — worked threat-model examples to learn on and test tools against (Apache-2.0).
+
 ## Tools
 
 *Tools which helps in threat modelling.*
