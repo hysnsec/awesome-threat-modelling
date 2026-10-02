@@ -279,6 +279,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - A collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.
 
+- [ThreatGenix](https://github.com/ibrolord/threatgenix-oss) - A self-hosted, open-source threat modeling workspace with editable DFDs, STRIDE analysis, optional AI assistance, evidence review, and mitigation tracking.
 
 ### Paid tools
 
