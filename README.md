@@ -273,6 +273,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [TicTaaC](https://github.com/rusakovichma/TicTaaC) - Threat modeling-as-a-Code in a Tick (TicTaaC). Lightweight and easy-to-use Threat modeling solution following DevSecOps principles
 
+- [GuardLink](https://guardlink.bugb.io/) - Threat modeling as code: security annotations in source comments become a threat model that updates as the code changes. Source at https://github.com/Bugb-Technologies/guardlink
+
 - [Threat Modeling Online Game](https://github.com/dehydr8/elevation-of-privilege) - Online version of the Elevation of Privilege and Cornucopia card games. The easy way to get started with threat modeling.
 
 - [Deciduous](https://github.com/rpetrich/deciduous) - A web app that simplifies building attack decision trees. Hosted at https://www.deciduous.app/
