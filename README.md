@@ -287,6 +287,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Foreseeti](https://www.foreseeti.com/) - SecuriCAD Vanguard is an attack simulation and automated threat modeling SaaS service that enables you to automatically simulate attacks on a virtual model of your AWS environment.
 - [Tutamen Threat Model system](https://www.tutamantic.com) - This tool allows threat model metadata to be added to any software diagram, turning that diagram into a threat model. It's simple to use, requires no lock-in license, and is driven by the Common Weakness Enumeration, STRIDE and OWASP Top 10.
 - [YAKINDU Security Analyst](https://www.itemis.com/de/yakindu/security-analyst/) - YAKINDU Security Analyst is a model-based software tool for threat analysis and risk assessment of technical systems. You can identify your protection needs, analyze possible threats and calculate the resulting risks. The underlying assessment model and calculation logic are highly customizable and can be integrated into existing toolchains.
+- [Bravos](https://www.bugb.io/bravos) - Threat modeling as code for every pull request: drives your coding agent through the repo's GuardLink threat model, code graph, SAST and authorized pentests, then gates the PR and keeps a retest for each fix. Install guide at https://docs.bugb.io/bravos/get-started/install-bravos/
 
 ## Sponsor
 
